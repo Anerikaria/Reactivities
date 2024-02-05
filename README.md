@@ -1,8 +1,8 @@
-Overview
+Overview:-
 This project showcases a cutting-edge, full-stack web application leveraging RESTful APIs, MediatR and CQRS patterns for efficient backend operations, coupled with a React frontend utilizing functional components and hooks. 
 It demonstrates a modern approach to application development, focusing on clean architecture, scalability,and the seamless integration of front-end and back-end technologies.
 
-Architecture
+Architecture:-
 The application is structured into five main components, each fulfilling a specific role within the overall architecture:
 
 API: Serves as the gateway for the frontend, handling HTTP requests and responses following RESTful principles. It's where the controllers are defined to manage the CRUD operations for the application resources.
@@ -19,7 +19,7 @@ React with Hooks: Provides a dynamic and responsive user interface, making use o
 Getting Started
 To get a local copy up and running, follow these simple steps:
 
-Clone the repo
+Clone the repo:-
 Set up your database
 Install necessary dependencies for both the backend (.NET Core) and frontend (React)
 Run the application
