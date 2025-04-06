@@ -17,9 +17,4 @@ CQRS and MediatR: Employs the Command Query Responsibility Segregation pattern t
 Entity Framework Core: Implements the Code First approach for database management, allowing for a more agile development process.
 React with Hooks: Provides a dynamic and responsive user interface, making use of functional components and hooks for efficient state management.
 Getting Started
-To get a local copy up and running, follow these simple steps:
 
-Clone the repo:-
-Set up your database
-Install necessary dependencies for both the backend (.NET Core) and frontend (React)
-Run the application
